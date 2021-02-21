@@ -1,4 +1,4 @@
-package com.OverOne.Final_Project_Grechikhin.Blog;
+package com.OverOne.Final_Project_Grechikhin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
