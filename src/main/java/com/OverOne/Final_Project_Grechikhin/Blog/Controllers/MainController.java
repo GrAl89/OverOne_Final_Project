@@ -15,5 +15,10 @@ import org.springframework.web.bind.annotation.RequestParam;
             return "home_page";
         }
 
+        @GetMapping("/blog/about")
+        public String showBlogAbout () {
+            return "blog_about_page";
+        }
+
     }
 
